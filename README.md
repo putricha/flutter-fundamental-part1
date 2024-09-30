@@ -1,16 +1,60 @@
-# hello_world
+## Nama: Putri Norchasana
 
-A new Flutter project.
+## Kelas: TI-3D
 
-## Getting Started
+### Praktikum 1: Membuat Project Flutter Baru
 
-This project is a starting point for a Flutter application.
+![](/img/P1.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Praktikum 2: Menghubungkan Perangkat Android atau Emulator
+![](/img/android_emulator.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](/img/P2.png)
+
+### Praktikum 4: Menerapkan Widget Dasar
+
+#### Langkah 1: Text Widget
+
+![](/img/P4L1.png)
+
+#### Langkah 2: Image Widget
+
+![](/img/P4L2.png)
+
+### Praktikum 5: Menerapkan Widget Material Design dan iOS Cupertino
+
+#### Cupertino Button dan Loading Bar
+
+![](/img/cupertinoLoadBar.png)
+
+#### Floating Action Button (FAB)
+
+![](/img/fabwidget.png)
+
+#### Scaffold widget
+
+![](/img/scaffold.png)
+
+#### Dialog Widget
+
+![](/img/dialog.png)
+![](/img/alert.png)
+
+#### Input dan Selectionn Widget
+
+![](/img/input_widget.png)
+
+#### Date and Time Picker
+
+![](/img/datePicker.png)
+
+![](/img/datePicker2.png)
+
+### Hasil Tugas Praktikum No 4 Menyelesaikan Codelabs: Your first Flutter app
+
+![](/img/4.1.png)
+![](/img/4.2.png)
+![](/img/4.3.png)
+![](/img/4.4.png)
